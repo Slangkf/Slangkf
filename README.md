@@ -1,16 +1,17 @@
-## Hi there 👋
+Bienvenue sur mon GitHub !
 
-<!--
-**Slangkf/Slangkf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ici, vous découvrirez tous les projets réalisés durant mon cursus à 42 Paris.
 
-Here are some ideas to get you started:
+Chaque projet est accompagné d'un README vous expliquant le but à atteindre, les limitations techniques imposées par le sujet et ma note finale avec les avis de mes correcteurs !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pour celles et ceux qui ne seraient pas familiers avec la pédagogie 42, laissez-moi vous éclairer sur quelques points avant d'aller plus loin :
+
+-   L'école est ouverte 24/7.
+
+-  Il n'y a pas de professeurs, ni d'enseignement théorique.
+
+- Chaque élève doit trouver les solutions à ces problèmes par lui-même.
+
+- Tu n'as pas la réponse ? Demande à ton voisin de gauche, ou à ton voisin de droite !
+
+Bonne visite !
