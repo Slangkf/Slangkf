@@ -12,6 +12,6 @@ Pour celles et ceux qui ne seraient pas familiers avec la pédagogie 42, laissez
 
 - Chaque élève doit trouver les solutions à ces problèmes par lui-même.
 
-- Tu n'as pas la réponse ? Demande à ton voisin de gauche, ou à ton voisin de droite !
+- Tu n'as pas la réponse ? Demande à ton voisin de gauche, ou à ton voisin de droite.
 
 Bonne visite !
