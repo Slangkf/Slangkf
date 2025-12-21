@@ -1,6 +1,6 @@
 Bienvenue sur mon GitHub !
 
-Ici, vous découvrirez tous les projets réalisés durant mon cursus à 42 Paris.
+Ici, vous découvrirez des projets réalisés durant mon cursus à 42 Paris.
 
 Chaque projet est accompagné d'un README vous expliquant le but à atteindre, les limitations techniques imposées par le sujet et ma note finale avec les avis de mes correcteurs !
 
