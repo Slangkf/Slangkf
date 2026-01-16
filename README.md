@@ -1,17 +1,17 @@
-Bienvenue sur mon GitHub !
+Welcome to my GitHub!
 
-Ici, vous découvrirez certains projets réalisés durant mon cursus à 42 Paris.
+Here you will find some of the projects I completed during my studies at 42 Paris.
 
-Chaque projet est accompagné d'un README vous expliquant le but à atteindre, les limitations techniques imposées par le sujet et la note finale (avec les avis de mes correcteurs) !
+Each project includes a README explaining the objective to be achieved, the technical constraints imposed by the subject, and the final grade (along with feedback from my reviewers).
 
-Pour celles et ceux qui ne seraient pas familiers avec la pédagogie 42, laissez-moi vous éclairer sur quelques points avant d'aller plus loin :
+For those who may not be familiar with the 42 teaching methodology, here are a few key points before going any further:
 
--   L'école est ouverte 24/7.
+The school is open 24/7.
 
--  Il n'y a pas de professeurs, ni d'enseignement théorique.
+There are no teachers and no traditional lectures.
 
-- Chaque élève doit trouver les solutions à ses problèmes par lui-même.
+Each student is responsible for finding solutions to their own problems.
 
-- Tu n'as pas la réponse ? Demande à ton voisin de gauche, ou à ton voisin de droite.
+Can’t find the answer? Ask the neighbor on your left — or the one on your right.
 
-Bonne visite !
+Enjoy your visit!
