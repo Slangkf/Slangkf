@@ -6,12 +6,12 @@ Each project includes a README explaining the objective to be achieved, the tech
 
 For those who may not be familiar with the 42 teaching methodology, here are a few key points before going any further:
 
-The school is open 24/7.
+  - The school is open 24/7.
 
-There are no teachers and no traditional lectures.
+  - There are no teachers and no traditional lectures.
 
-Each student is responsible for finding solutions to their own problems.
+  - Each student is responsible for finding solutions to their own problems.
 
-Can’t find the answer? Ask the neighbor on your left — or the one on your right.
+  - Can’t find the answer? Ask the neighbor on your left — or the one on your right.
 
 Enjoy your visit!
