@@ -1,6 +1,6 @@
 Welcome to my GitHub!
 
-Here you will find some of the projects I completed during my studies at 42 Paris.
+Here, you will find some of the projects I completed during my studies at 42 Paris.
 
 Each project includes a README explaining the objective to be achieved, the technical constraints imposed by the subject, and the final grade (along with feedback from my reviewers).
 
